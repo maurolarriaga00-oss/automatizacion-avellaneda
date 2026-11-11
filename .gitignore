@@ -1,0 +1,19 @@
+# Datos sensibles
+.env
+
+# Datos reales
+productos.csv
+imagenes/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/

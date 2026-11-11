@@ -1,0 +1,4 @@
+subir;titulo;categoria;precio_mayorista;compra_minima;talles;descripcion;ruta_imagen
+si;Remera lisa de algodón;Remeras;$8.500,00;6;S-M-L-XL;Remera lisa de algodón peinado, disponible en varios colores.;imagenes/remera_1.jpg|imagenes/remera_2.jpg
+si;Jean clásico azul;Jeans;$21.000,00;3;38-40-42-44;Jean de corte recto, tela resistente.;imagenes/jean_1.jpg
+no;Campera de abrigo;Camperas;$35.000,00;2;M-L-XL;Producto de ejemplo que NO se sube porque "subir" es "no".;imagenes/campera_1.jpg
